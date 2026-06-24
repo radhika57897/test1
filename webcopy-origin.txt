@@ -1,0 +1,48 @@
+Uri: https://caretocarex-6f5d3fe0c0b9.herokuapp.com/
+File Name: C:\Downloaded Web Sites\caretocarex-6f5d3fe0c0b9.herokuapp.com\index.htm
+Content Type: text/html
+
+Uri: https://caretocarex-6f5d3fe0c0b9.herokuapp.com/css/style.css
+File Name: C:\Downloaded Web Sites\caretocarex-6f5d3fe0c0b9.herokuapp.com\css\style.css
+Content Type: text/css
+
+Uri: https://caretocarex-6f5d3fe0c0b9.herokuapp.com/images/about.jpg
+File Name: C:\Downloaded Web Sites\caretocarex-6f5d3fe0c0b9.herokuapp.com\images\about.jpg
+Content Type: image/jpeg
+
+Uri: https://caretocarex-6f5d3fe0c0b9.herokuapp.com/images/hero-bg.jpg
+File Name: C:\Downloaded Web Sites\caretocarex-6f5d3fe0c0b9.herokuapp.com\images\hero-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://caretocarex-6f5d3fe0c0b9.herokuapp.com/images/product-1.jpg
+File Name: C:\Downloaded Web Sites\caretocarex-6f5d3fe0c0b9.herokuapp.com\images\product-1.jpg
+Content Type: image/jpeg
+
+Uri: https://caretocarex-6f5d3fe0c0b9.herokuapp.com/images/product-2.jpg
+File Name: C:\Downloaded Web Sites\caretocarex-6f5d3fe0c0b9.herokuapp.com\images\product-2.jpg
+Content Type: image/jpeg
+
+Uri: https://caretocarex-6f5d3fe0c0b9.herokuapp.com/images/product-3.jpg
+File Name: C:\Downloaded Web Sites\caretocarex-6f5d3fe0c0b9.herokuapp.com\images\product-3.jpg
+Content Type: image/jpeg
+
+Uri: https://caretocarex-6f5d3fe0c0b9.herokuapp.com/images/product-4.jpg
+File Name: C:\Downloaded Web Sites\caretocarex-6f5d3fe0c0b9.herokuapp.com\images\product-4.jpg
+Content Type: image/jpeg
+
+Uri: https://caretocarex-6f5d3fe0c0b9.herokuapp.com/images/product-5.jpg
+File Name: C:\Downloaded Web Sites\caretocarex-6f5d3fe0c0b9.herokuapp.com\images\product-5.jpg
+Content Type: image/jpeg
+
+Uri: https://caretocarex-6f5d3fe0c0b9.herokuapp.com/images/product-6.jpg
+File Name: C:\Downloaded Web Sites\caretocarex-6f5d3fe0c0b9.herokuapp.com\images\product-6.jpg
+Content Type: image/jpeg
+
+Uri: https://caretocarex-6f5d3fe0c0b9.herokuapp.com/js/main.js
+File Name: C:\Downloaded Web Sites\caretocarex-6f5d3fe0c0b9.herokuapp.com\js\main.js
+Content Type: text/javascript
+
+Uri: https://sstatic1.histats.com/0.gif?5033744&101
+File Name: C:\Downloaded Web Sites\caretocarex-6f5d3fe0c0b9.herokuapp.com\0.gif
+Content Type: image/gif
+
